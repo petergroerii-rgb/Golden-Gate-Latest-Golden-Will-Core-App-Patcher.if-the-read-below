@@ -18,6 +18,8 @@ You can check which apps on your Mac still rely on Rosetta 2:
 2. Click General in the sidebar, then click About.
 3. In the macOS section, click the Details button next to Intel-based Apps to see a full list of affected software.
 
-4. https://swcdn.apple.com/content/downloads/04/52/142-27367-A_W3GHHHB05E/4kfhtjlg2i1qcv0obh62hlfcambu6kv15n/InstallAssistant.pkg
+4. full 19 gigabyte plus downloader yea!!! ===> https://swcdn.apple.com/content/downloads/04/52/142-27367-A_W3GHHHB05E/4kfhtjlg2i1qcv0obh62hlfcambu6kv15n/InstallAssistant.pkg
 
-5. fule 27.0.1 dl link for golden gate release!
+5. full 27.0.1 dl link for golden gate release! above enjoy! =)
+6. I tested it will install under intel but run the install you 19 gigs on your drive you can't use.
+7. core app patcher team take a look und hood even it says after preparing you the whole os on the drive but the real color installer icon it says it won't this hardware?come spoof the installer.thumbs up!
